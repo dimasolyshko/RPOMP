@@ -35,7 +35,7 @@
                 android:height="23pt"
                 android:backgroundTint="@color/purple"
                 android:onClick="onClickClear"
-                android:text="AC" />
+                android:text="ACолышко" />
 
             <Button
                 android:id="@+id/buDivide"
